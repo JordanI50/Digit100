@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rèsumè>
+    
+    <personalinfo>
+        <h1>Personal Information</h1>
+        <name>Jordan Iozzo</name>
+        <address>411 Water St, Johnsonburg PA</address>
+        <phone>(814)389-7713</phone>
+        <email>jni5042@psu.edu</email>
+    </personalinfo>
+    
+    <about>
+        <h2>Annual Fundraiser</h2>
+        <li>I started my fundraiser in 2018 when I was 11 years old</li>
+        <li>To date I have raised over $8000.00</li>
+        <li>Recipients of my fundraiser have been The Polaris Project, an orphanage in India
+            (twice), St. John's Lutheran Church in Johnsonburg, a local child with juvenile
+            diabetes, Season of Justice, a local child with cancer, and a homeless shelter in Erie,
+            PA</li>
+        <h3>Boy Scouts</h3>
+        <li>Started scouts in First grade</li>
+        <li>Achieved Eagle Scout rank</li>
+        <li>My Eagle Scout Project - Blessing Boxes</li>
+        <project>2 Boxes will be placed in my town for people to take or leave non-perishable food
+            or hygeine items</project>
+    </about>
+    
+    <education>
+        <h4>Education</h4>
+        <degree>Bachelor of STEM</degree>
+        <major>Industrial Engineering</major>
+        <university>Penn State Erie, The Behrend College</university>
+        <graduationYear>2029</graduationYear>
+    </education>
+
+    <job>
+        <h5>Job Experience</h5>
+        <title>Maintenance</title>
+        <company>Borough</company>
+        <location>Johnsonburg PA</location>
+        <StartDate>2024-06</StartDate>
+        <EndDate>2025-08</EndDate>
+    </job>
+    
+    <skills>
+        <h6>Skills</h6>
+        <li>Leadership</li>
+        <li>Communication</li>
+        <li>Problem-solving</li>
+        <li>Teamwork</li>
+        <li>Motivational</li>
+        <li>Time Management</li>
+        <li>Adaptability</li>
+        <li>Dedication</li>
+    </skills>
+
+</rèsumè>
